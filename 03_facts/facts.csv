@@ -1,0 +1,193 @@
+bank,period,metric,value,unit,derived,formula_or_inputs,definition,source_doc,source_page_or_section,confidence,retrieved
+DBS,1H26,total_income,12041,SGD m,N,,Total income (NII plus non-II) Group,DBS 2Q26 CFO presentation,slide 24,primary,2026-08-27
+DBS,1H26,nii,7075,SGD m,N,,Group net interest income incl Markets trading NII,DBS 2Q26 CFO presentation,slide 24,primary,2026-08-27
+DBS,1H26,nii_commercial_book,6958,SGD m,N,,Commercial book NII excl Markets trading,DBS 2Q26 CFO presentation,slide 24,primary,2026-08-27
+DBS,1H26,fee_income_net,2942,SGD m,N,,Net fee and commission income,DBS 2Q26 CFO presentation,slide 24,primary,2026-08-27
+DBS,1H26,fee_income_gross,3407,SGD m,N,,Gross fee income by product,DBS 2Q26 CFO presentation,slide 9,primary,2026-08-27
+DBS,1H26,wealth_fees_gross,1826,SGD m,N,,Gross wealth management fees,DBS 2Q26 CFO presentation,slide 9,primary,2026-08-27
+DBS,1H26,treasury_customer_sales_other,1283,SGD m,N,,Treasury customer sales and other income (commercial book),DBS 2Q26 CFO presentation,slide 24,primary,2026-08-27
+DBS,1H26,markets_trading_income,858,SGD m,N,,Markets trading total income,DBS 2Q26 CFO presentation,slide 24,primary,2026-08-27
+DBS,1H26,non_ii,4966,SGD m,Y,12041-7075,Total income minus Group NII,derived,,derived,2026-08-27
+DBS,1H26,non_ii_ratio,41.2,%,Y,4966/12041,Non-II over total income,derived,,derived,2026-08-27
+DBS,1H26,opex,4649,SGD m,N,,Total expenses,DBS 2Q26 CFO presentation,slide 24,primary,2026-08-27
+DBS,1H26,ppop,7392,SGD m,N,,Profit before allowances and amortisation,DBS 2Q26 CFO presentation,slide 24,primary,2026-08-27
+DBS,1H26,cir_reported,39,%,N,,Cost-income ratio as reported,DBS 2Q26 CFO presentation,slide 12,primary,2026-08-27
+DBS,1H26,cir_derived,38.6,%,Y,4649/12041,Opex over total income,derived,,derived,2026-08-27
+DBS,1H26,allowances_total,303,SGD m,N,,Allowances for credit and other losses,DBS 2Q26 CFO presentation,slide 24,primary,2026-08-27
+DBS,1H26,allowances_sp,345,SGD m,N,,Specific allowances,DBS 2Q26 CFO presentation,slide 24,primary,2026-08-27
+DBS,1H26,allowances_gp,-42,SGD m,N,,General allowances (negative = write-back),DBS 2Q26 CFO presentation,slide 24,primary,2026-08-27
+DBS,1H26,net_profit,6009,SGD m,N,,Net profit,DBS 2Q26 CFO presentation,slide 24,primary,2026-08-27
+DBS,1H26,net_profit_growth_yoy,5,%,N,,vs 1H25 5721,DBS 2Q26 CFO presentation,slide 24,primary,2026-08-27
+DBS,1H26,total_income_growth_yoy,3,%,N,,vs 1H25 11637,DBS 2Q26 CFO presentation,slide 24,primary,2026-08-27
+DBS,1H26,nii_growth_yoy,-3,%,N,,Group NII vs 1H25 7329,DBS 2Q26 CFO presentation,slide 6,primary,2026-08-27
+DBS,1H26,fee_income_growth_yoy,20,%,N,,Net fee income vs 1H25 2442,DBS 2Q26 CFO presentation,slide 24,primary,2026-08-27
+DBS,1H26,opex_growth_yoy,4,%,N,,vs 1H25 4484,DBS 2Q26 CFO presentation,slide 24,primary,2026-08-27
+DBS,1H26,roe,17.5,%,N,,Annualised ROE 1H26 (press statement quote),DBS 2Q26 press statement via thesingaporeaninvestor.sg,,secondary,2026-08-27
+DBS,2Q26,roe,17.9,%,N,,Annualised ROE 2Q26,DBS 2Q26 CFO presentation,slide 2,primary,2026-08-27
+DBS,2Q26,rote,19.6,%,N,,Annualised ROTE 2Q26,DBS 2Q26 CFO presentation,slide 2,primary,2026-08-27
+DBS,1H26,nim_group,1.88,%,N,,Group NIM cumulative 1H26,DBS 2Q26 CFO presentation,slide 6,primary,2026-08-27
+DBS,1H26,nim_commercial_book,2.25,%,N,,Commercial book NIM cumulative 1H26,DBS 2Q26 CFO presentation,slide 6,primary,2026-08-27
+DBS,2Q26,nim_group,1.87,%,N,,Group NIM single quarter,DBS 2Q26 CFO presentation,slide 6,primary,2026-08-27
+DBS,2Q26,nim_commercial_book,2.21,%,N,,Commercial book NIM single quarter,DBS 2Q26 CFO presentation,slide 6,primary,2026-08-27
+DBS,2Q25,nim_group,2.05,%,N,,Group NIM single quarter prior year,DBS 2Q26 CFO presentation,slide 6,primary,2026-08-27
+DBS,1H26,npl_ratio,1.0,%,N,,NPL ratio at Jun 26,DBS 2Q26 CFO presentation,slide 17,primary,2026-08-27
+DBS,1H26,npa,4764,SGD m,N,,Non-performing assets at Jun 26,DBS 2Q26 CFO presentation,slide 17,primary,2026-08-27
+DBS,1H26,npa_coverage,130,%,N,,Total allowance reserves as % of NPA (excl collateral),DBS 2Q26 CFO presentation,slide 19,primary,2026-08-27
+DBS,1H26,npa_coverage_with_collateral,196,%,N,,Coverage after considering collateral,DBS 2Q26 CFO presentation,slide 19,primary,2026-08-27
+DBS,1H26,sp_credit_cost_bp,15,bp,N,,SP charges over loans annualised,DBS 2Q26 CFO presentation,slide 18,primary,2026-08-27
+DBS,1H26,gp_reserves,3812,SGD m,N,,General provision reserves at Jun 26,DBS 2Q26 CFO presentation,slide 19,primary,2026-08-27
+DBS,1H26,cet1_transitional,16.6,%,N,,CET1 transitional at Jun 26,DBS 2Q26 CFO presentation,slide 20,primary,2026-08-27
+DBS,1H26,cet1_fully_phased,14.6,%,N,,CET1 fully phased-in at Jun 26,DBS 2Q26 CFO presentation,slide 20,primary,2026-08-27
+DBS,1H26,total_capital_ratio,17.2,%,N,,Total CAR transitional at Jun 26,DBS 2Q26 CFO presentation,slide 20,primary,2026-08-27
+DBS,1H26,rwa,382,SGD b,N,,Risk-weighted assets at Jun 26,DBS 2Q26 CFO presentation,slide 20,primary,2026-08-27
+DBS,1H26,leverage_ratio,5.8,%,N,,Leverage ratio at Jun 26,DBS 2Q26 CFO presentation,slide 20,primary,2026-08-27
+DBS,1H26,gross_loans,475,SGD b,N,,Gross loans at Jun 26,DBS 2Q26 CFO presentation,slide 8,primary,2026-08-27
+DBS,1H26,loans_growth_ytd_ccy,5,%,N,,Loans growth over 1H constant FX,DBS 2Q26 CFO presentation,slide 8,primary,2026-08-27
+DBS,1H26,customer_deposits,638,SGD b,N,,Deposits at Jun 26,DBS 2Q26 CFO presentation,slide 28,primary,2026-08-27
+DBS,1H26,deposits_growth_yoy_ccy,11,%,N,,Deposits YoY constant FX,DBS 2Q26 CFO presentation,slide 28,primary,2026-08-27
+DBS,1H26,casa_deposits,347,SGD b,N,,Casa at Jun 26,DBS 2Q26 CFO presentation,slide 28,primary,2026-08-27
+DBS,1H26,casa_ratio,54.4,%,Y,347/638,Casa over total deposits,derived,,derived,2026-08-27
+DBS,1H26,ldr,74.5,%,Y,475/638,Gross loans over customer deposits,derived,,derived,2026-08-27
+DBS,1H26,wealth_segment_income,3299,SGD m,N,,Wealth segment income (Treasures Treasures Private Client Private Bank),DBS 2Q26 CFO presentation,slide 11,primary,2026-08-27
+DBS,1H26,wealth_aum,516,SGD b,N,,Wealth segment AUM at Jun 26,DBS 2Q26 CFO presentation,slide 11,primary,2026-08-27
+DBS,1H26,wealth_aum_growth_yoy,17,%,N,,vs 442 at Jun 25,DBS 2Q26 CFO presentation,slide 13,primary,2026-08-27
+DBS,1H26,wealth_nnm,21,SGD b,N,,Net new money 1H26,DBS 2Q26 CFO presentation,slide 11,primary,2026-08-27
+DBS,1H26,cbg_wm_total_income,5523,SGD m,N,,Consumer Banking / Wealth Management segment income,DBS 2Q26 CFO presentation,slide 13,primary,2026-08-27
+DBS,1H26,ibg_total_income,4538,SGD m,N,,Institutional Banking segment income,DBS 2Q26 CFO presentation,slide 14,primary,2026-08-27
+DBS,1H26,treasury_customer_income,1705,SGD m,N,,Treasury customer income CBG plus IBG,DBS 2Q26 CFO presentation,slide 15,primary,2026-08-27
+DBS,1H26,hk_net_profit,1027,SGD m,N,,Hong Kong net profit,DBS 2Q26 CFO presentation,slide 25,primary,2026-08-27
+DBS,2Q26,dividend_ordinary_per_share,66,SG cents,N,,Ordinary dividend 2Q26,DBS 2Q26 CFO presentation,slide 21,primary,2026-08-27
+DBS,2Q26,dividend_capital_return_per_share,15,SG cents,N,,Capital return dividend 2Q26,DBS 2Q26 CFO presentation,slide 21,primary,2026-08-27
+DBS,FY26,guidance_total_income,around 2025 levels,text,N,,FY26 guidance,DBS Annual Report 2025 CFO statement,,primary,2026-08-27
+DBS,FY26,guidance_net_profit,slightly below 2025,text,N,,FY26 guidance,DBS Annual Report 2025 CFO statement,,primary,2026-08-27
+DBS,FY26,guidance_sp_bp,17 to 20,bp,N,,FY26 SP guidance (CEO Q2 call),DBS 2Q26 earnings call transcript via investing.com,,secondary,2026-08-27
+OCBC,1H26,net_profit,4190,SGD m,N,,Group net profit,OCBC 1H26 press release,1H26 YoY section,primary,2026-08-27
+OCBC,1H26,net_profit_growth_yoy,13,%,N,,vs 1H25 3700,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,total_income,8000,SGD m,N,,Total income incl GEH insurance,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,total_income_growth_yoy,11,%,N,,,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,nii,4490,SGD m,N,,Net interest income,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,nii_growth_yoy,-3,%,N,,,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,nim,1.73,%,N,,NIM 1H26 (down 25bp YoY),OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,non_ii,3510,SGD m,N,,Non-interest income incl insurance,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,non_ii_growth_yoy,36,%,N,,,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,non_ii_ratio,44,%,N,,Non-II over total income (close to 44%),OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,fee_income_net,1410,SGD m,N,,Net fee income,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,fee_income_growth_yoy,26,%,N,,,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,wealth_fees_share_of_fees,63,%,N,,WM fees as share of total fee income,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,wealth_fees_growth_yoy,39,%,N,,,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,trading_income,1130,SGD m,N,,Net trading income (incl GEH investment income),OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,insurance_income,791,SGD m,N,,Insurance income from GEH (up 49%),OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,wealth_income,3290,SGD m,N,,Group WM income incl insurance asset mgmt stockbroking,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,wealth_income_share,41,%,N,,Group WM income over total income,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,wealth_aum,350,SGD b,N,,Banking WM AUM at Jun 26 (up 13% YoY),OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,opex,3080,SGD m,N,,Operating expenses (up 10%),OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,cir_reported,38.5,%,N,,vs 38.9 in 1H25,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,cir_derived,38.5,%,Y,3080/8000,,derived,,derived,2026-08-27
+OCBC,1H26,allowances_total,372,SGD m,N,,Total allowances (up 14%),OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,allowances_impaired,147,SGD m,N,,Allowances for impaired assets,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,allowances_non_impaired,225,SGD m,N,,Allowances for non-impaired assets incl overlays,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,credit_cost_bp,18,bp,N,,Annualised total credit cost,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,2Q26,credit_cost_bp,14,bp,N,,Annualised 2Q26 (23 in 1Q26),OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,associates_share,637,SGD m,N,,Share of results of associates (up 19%),OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,roe,13.7,%,N,,Annualised ROE (12.6 in 1H25),OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,eps_annualised,1.86,SGD,N,,,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,npa,3130,SGD m,N,,Total NPAs at Jun 26 (up 4% YoY),OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,npl_ratio,0.9,%,N,,,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,npa_coverage,163,%,N,,Total NPA coverage,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,gross_loans,364,SGD b,N,,Customer loans at Jun 26,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,loans_growth_yoy_ccy,11,%,N,,Constant currency,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,customer_deposits,459,SGD b,N,,Customer deposits at Jun 26,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,deposits_growth_yoy,13,%,N,,,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,ldr_reported,78.4,%,N,,Loans-to-deposits ratio as reported,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,cet1_transitional,15.7,%,N,,,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,cet1_fully_phased,14.0,%,N,,,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,dividend_interim_per_share,47,SG cents,N,,Up 15% from 41,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,payout_ratio,50,%,N,,Interim payout ratio,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,1H26,sustainable_financing_loans,59.7,SGD b,N,,16% of Group loans,OCBC 1H26 press release,,primary,2026-08-27
+OCBC,FY26,capital_return_programme,2.5,SGD b,N,,To complete by FY26,OCBC 1H26 press release,,primary,2026-08-27
+UOB,1H26,net_profit,2920,SGD m,N,,Net profit (up 3%),UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,2Q26,net_profit,1480,SGD m,N,,Net profit 2Q26 (up 10% YoY incl non-recurring gains),UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,nii,4621,SGD m,N,,Net interest income (down 3%),UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,nim,1.78,%,N,,NIM 1H26 (1.96 in 1H25),UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,2Q26,nim,1.74,%,N,,NIM 2Q26 (1.82 in 1Q26),UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,loan_margin,2.11,%,N,,Loan margin (2.33 in 1H25); not NIM,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,fee_income_net,1730,SGD m,N,,Net fee income (flat YoY),UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,wealth_fees,462,SGD m,N,,Wealth fees 1H26,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,card_fees,572,SGD m,N,,Credit card fees 1H26,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,loan_trade_fees,502,SGD m,N,,Loan and trade-related fees (down),UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,wealth_income_growth_yoy,16,%,N,,Retail wealth income growth,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,wealth_aum,204,SGD b,N,,Retail AUM at Jun 26 (up 7%),UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,wealth_nnm,4,SGD b,N,,Net new money 1H26,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,opex,3152,SGD m,N,,Total expenses (up 2%),UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,cir_reported,44.9,%,N,,vs 43.5 in 1H25,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,total_income_derived,7020,SGD m,Y,3152/0.449,Implied total income from CIR; confirm against deck,derived,,derived,2026-08-27
+UOB,1H26,credit_cost_bp,27,bp,N,,Total credit cost annualised (guidance 25 to 30),UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,npl_ratio,1.6,%,N,,NPL ratio at Jun 26 (1.5 at Mar 26),UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,npa,5750,SGD m,N,,Total NPA at Jun 26,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,npa_greater_china,2335,SGD m,N,,Greater China NPA (1330 at Jun 25); one real estate account,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,npa_coverage,88,%,N,,NPA coverage incl RLAR,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,unsecured_npa_coverage,306,%,N,,,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,total_allowances_stock,5056,SGD m,N,,RLAR 379 plus GP 3357 plus SP 1320,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,gross_loans,361,SGD b,N,,Customer loans at Jun 26 (up 5% YoY),UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,loans_singapore,180,SGD b,N,,,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,loans_asean4,78,SGD b,N,,Thailand Indonesia Malaysia Philippines,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,trade_loans,50,SGD b,N,,Trade loans (up 33% YoY),UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,casa_deposits,243,SGD b,N,,Group CASA at Jun 26,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,fd_and_other_deposits,194,SGD b,N,,,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,customer_deposits_derived,437,SGD b,Y,243+194,Confirm against deck,derived,,derived,2026-08-27
+UOB,1H26,casa_ratio_derived,55.6,%,Y,243/437,,derived,,derived,2026-08-27
+UOB,1H26,ldr_reported,81.7,%,N,,vs 83.7 a year ago,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,lcr,159,%,N,,All-currency LCR,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,nsfr,114,%,N,,,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,cet1_fully_phased,15.4,%,N,,CET1 fully loaded at Jun 26,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,rwa,279,SGD b,N,,,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,leverage_ratio,6.8,%,N,,,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,dividend_interim_per_share,88,SG cents,N,,Up from 85,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,payout_ratio,50,%,N,,,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,buyback_executed,794,SGD m,N,,Of 2 SGD b programme (40%) as at Jul 31 2026,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,uobam_sale_gain_pretax,330,SGD m,N,,Sale of UOB Asset Management to AllianzGI; consideration 555; CET1 +14bp,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,1H26,copilot_staff_access,30000,staff,N,,Staff with Microsoft Copilot access; 300+ use cases,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,FY26,guidance_nim,1.75 to 1.80,%,N,,,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,FY26,guidance_credit_cost_bp,25 to 30,bp,N,,,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,FY26,guidance_fee_growth,low single digit,text,N,,Cut from high single digit,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+UOB,FY26,guidance_loan_growth,low single digit,text,N,,,UOB 1H26 results presentation via Investing.com summary,,secondary,2026-08-27
+MBB,1H26,net_profit,5171,MYR m,N,,Net profit attributable,Maybank 2Q FY26 analyst presentation,slide 20,primary,2026-08-27
+MBB,1H26,net_profit_growth_yoy,-0.9,%,N,,,Maybank 2Q FY26 analyst presentation,slide 20,primary,2026-08-27
+MBB,1H26,total_income,14610.9,MYR m,N,,Net operating income,Maybank 2Q FY26 analyst presentation,slide 20,primary,2026-08-27
+MBB,1H26,nii,10137.9,MYR m,N,,Net fund based income (+2.5%),Maybank 2Q FY26 analyst presentation,slide 20,primary,2026-08-27
+MBB,1H26,non_ii,4473.0,MYR m,N,,Non-interest income (-18.8%),Maybank 2Q FY26 analyst presentation,slide 20,primary,2026-08-27
+MBB,1H26,non_ii_ratio,30.6,%,N,,Fee to income ratio,Maybank 2Q FY26 analyst presentation,slide 35,primary,2026-08-27
+MBB,1H26,core_fees_growth_yoy,12.1,%,N,,Core fees excl trading,Maybank 2Q FY26 analyst presentation,slide 11,primary,2026-08-27
+MBB,1H26,wealth_fees,930,MYR m,N,,Wealth fees (+48.4%),Maybank 2Q FY26 analyst presentation,slide 11,primary,2026-08-27
+MBB,1H26,opex,7234.7,MYR m,N,,Overheads (-3.9%),Maybank 2Q FY26 analyst presentation,slide 20,primary,2026-08-27
+MBB,1H26,cir_reported,49.5,%,N,,,Maybank 2Q FY26 analyst presentation,slide 35,primary,2026-08-27
+MBB,1H26,roe,11.6,%,N,,Annualised,Maybank 2Q FY26 analyst presentation,slide 35,primary,2026-08-27
+MBB,1H26,nim,2.12,%,N,,Cumulative annualised,Maybank 2Q FY26 analyst presentation,slide 35,primary,2026-08-27
+MBB,1H26,gil_ratio,1.35,%,N,,,Maybank 2Q FY26 analyst presentation,slide 35,primary,2026-08-27
+MBB,1H26,llc,103.1,%,N,,Excl regulatory reserve,Maybank 2Q FY26 analyst presentation,slide 35,primary,2026-08-27
+MBB,1H26,ncc_reported_bp,8,bp,N,,12m rolling,Maybank 2Q FY26 analyst presentation,slide 35,primary,2026-08-27
+MBB,1H26,ncc_normalised_bp,20,bp,N,,Excl provision reclassification,Maybank 2Q FY26 analyst presentation,slide 35,primary,2026-08-27
+MBB,1H26,cet1,14.92,%,N,,Group post-dividend,Maybank 2Q FY26 analyst presentation,slide 35,primary,2026-08-27
+MBB,1H26,casa_ratio,41.5,%,N,,Group,Maybank 2Q FY26 analyst presentation,slide 14,primary,2026-08-27
+MBB,1H26,loans_growth_yoy,2.7,%,N,,4.6 ex FX,Maybank 2Q FY26 analyst presentation,slide 23,primary,2026-08-27
+MBB,1H26,investment_aum,95.4,MYR b,N,,+15.9% YoY,Maybank 2Q FY26 analyst presentation,slide 4,primary,2026-08-27
+MBB,1H26,tech_spend,0.2,MYR b,N,,1H actual; RM10b by 2030; >20k staff on Copilot,Maybank 2Q FY26 analyst presentation,slide 5,primary,2026-08-27
+MBBSG,1H26,nii,453.30,SGD m,N,,Net fund based income (+18.6%),Maybank 2Q FY26 analyst presentation,slide 44,primary,2026-08-27
+MBBSG,1H26,non_ii,299.77,SGD m,N,,Non-interest income (+4.5%),Maybank 2Q FY26 analyst presentation,slide 44,primary,2026-08-27
+MBBSG,1H26,total_income,753.07,SGD m,N,,Net income (+12.6%),Maybank 2Q FY26 analyst presentation,slide 44,primary,2026-08-27
+MBBSG,1H26,opex,327.32,SGD m,N,,Overheads (-1.4%),Maybank 2Q FY26 analyst presentation,slide 44,primary,2026-08-27
+MBBSG,1H26,ppop,425.75,SGD m,N,,Operating profit (+26.3%),Maybank 2Q FY26 analyst presentation,slide 44,primary,2026-08-27
+MBBSG,1H26,pbt,383.30,SGD m,N,,PBT (+5.4%),Maybank 2Q FY26 analyst presentation,slide 44,primary,2026-08-27
+MBBSG,1H26,impairment_charge,42.45,SGD m,Y,425.75-383.30,Implied allowance charge (1H25 write-back 26.67),derived,,derived,2026-08-27
+MBBSG,1H26,cir_derived,43.5,%,Y,327.32/753.07,1H25 49.6,derived,,derived,2026-08-27
+MBBSG,1H26,non_ii_ratio,39.8,%,Y,299.77/753.07,1H25 42.9,derived,,derived,2026-08-27
+MBBSG,1H26,credit_cost_bp,15.6,bp,Y,42.45*2/(0.5*(54.6+52.8))*1000/10,Annualised on average loans,derived,,derived,2026-08-27
+MBBSG,1H26,gross_loans,54.6,SGD b,N,,+3.4% YoY; CFS 28.5 (+7.4) GB 24.8 (-1.6) SME 4.6 (+15.2),Maybank 2Q FY26 analyst presentation,slide 25,primary,2026-08-27
+MBBSG,1H26,customer_deposits,61.2,SGD b,N,,-8.3% YoY; FD -16.5%,Maybank 2Q FY26 analyst presentation,slide 27,primary,2026-08-27
+MBBSG,1H26,casa_deposits,20.9,SGD b,N,,+13.3% YoY,Maybank 2Q FY26 analyst presentation,slide 27,primary,2026-08-27
+MBBSG,1H26,casa_ratio,34.2,%,N,,Jun 25 27.7,Maybank 2Q FY26 analyst presentation,slide 28,primary,2026-08-27
+MBBSG,1H26,ldr,89.2,%,N,,Jun 25 79.1,Maybank 2Q FY26 analyst presentation,slide 28,primary,2026-08-27
+MBBSG,1H26,gil_ratio,0.32,%,N,,Jun 25 0.33,Maybank 2Q FY26 analyst presentation,slide 30,primary,2026-08-27
+MBBSG,1H26,share_of_group_pbt,21.6,%,N,,Group PBT 6.93b,Maybank 2Q FY26 analyst presentation,slide 21,primary,2026-08-27
+MBBSG,1H26,share_of_group_loans,25.1,%,N,,,Maybank 2Q FY26 analyst presentation,slide 21,primary,2026-08-27
+MBBSG,FY25,pbt,711.3,SGD m,N,,FY25 baseline (+1.3%),Maybank FY25 press release,,primary,2026-08-27
